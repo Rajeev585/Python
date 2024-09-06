@@ -1,6 +1,6 @@
 # `Python`
 
-Designed by `Guido Van Rossum`
+Designed by Guido Van Rossum
 
 `PEP 8`: `Python Enhancement Proposal` guidelines and best practices for writing clean `Python code`
 
